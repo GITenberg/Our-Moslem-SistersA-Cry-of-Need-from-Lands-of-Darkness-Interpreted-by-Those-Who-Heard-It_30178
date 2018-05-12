@@ -1,0 +1,35 @@
+_repo: Our-Moslem-SistersA-Cry-of-Need-from-Lands-of-Darkness-Interpreted-by-Those-Who-Heard-It_30178
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30178-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Zwemer, Samuel Marinus
+    alias: Zwemer, S. M. (Samuel Marinus)
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '34415'
+    url: http://www.gutenberg.org/2009/agents/34415
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Marinus_Zwemer
+  - agent_name: Van Sommer, Annie
+    alias: Sommer, Annie van
+    gutenberg_agent_id: '34414'
+    url: http://www.gutenberg.org/2009/agents/34414
+description: ''
+gutenberg_issued: '2009-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30178'
+  lccn: '07016363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Orient'
+- !lcc 'HQ'
+title: 'Our Moslem Sisters
+
+  A Cry of Need from Lands of Darkness Interpreted by Those Who Heard It'
+url: http://www.gutenberg.org/ebooks/30178
